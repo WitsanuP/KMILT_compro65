@@ -1,7 +1,7 @@
 *.exe
-hw5.c
-hw6.c
-hw7.c
-hw8.c
-hw9.c
-hw10.c
+ch5\hw5.c
+ch5\hw6.c
+ch5\hw7.c
+ch5/hw8.c
+ch5/hw9.c
+ch5/hw10.c
