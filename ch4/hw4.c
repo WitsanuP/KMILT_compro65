@@ -26,4 +26,5 @@ int main(){
     printf("1. %s %s",name[0][0],name[0][1]);
     printf("2. %s %s",name[1][0],name[1][1]);
     printf("3. %s %s",name[2][0],name[2][1]);
+    return 0;
 }

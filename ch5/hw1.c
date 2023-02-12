@@ -5,7 +5,7 @@ int main(){
     char tmp[50];
     printf("Please enter a number: ");
     fgets(tmp,sizeof(tmp),stdin);
-    sscanf(tmp,"%i",&n);
+    sscanf(tmp,"%d",&n);
 
     if(n>0)
         printf("%d is positive number.",n);
